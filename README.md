@@ -1,4 +1,4 @@
-# <span style="font-variant: small-caps;">SimpleSafetyTests.</span>
+# <sub>SIMPLE</sub><sup>SAFETY</sup><sub>TESTS</sub>
 
 <span style="color:red">Content warning.</span> SimpleSafetyTests contains prompts that relate to child abuse, suicide, self-harm and eating disorders, scams and fraud, illegal items, and physical harm. They are highly sensitive and you could find them harmful.
 
