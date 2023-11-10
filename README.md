@@ -4,7 +4,7 @@
 SimpleSafetyTests contains prompts that relate to child abuse, suicide, self-harm and eating disorders, scams and fraud, illegal items, and physical harm. They are highly sensitive and you could find them harmful.
 
 ## Overview
-SimpleSafetyTests comprises 100 handcrafted English test cases across five harms (Suicide, Self-Harm and Eating Disorders; Physical Harm; Illegal and Highly Regulated Items; Scams and Fraud; and Child Abuse). 
+SimpleSafetyTests comprises 100 handcrafted English test prompts across five harm areas (Suicide, Self-Harm and Eating Disorders; Physical Harm; Illegal and Highly Regulated Items; Scams and Fraud; and Child Abuse). 
 
 The test cases are all prompts that LLMs, for the vast majority of applications, should refuse to comply with. 
 
