@@ -9,3 +9,5 @@ SimpleSafetyTests comprises 100 handcrafted English test prompts across five har
 The test cases are all prompts that LLMs, for the vast majority of applications, should refuse to comply with. 
 
 Email [bertievidgen@gmail.com](mailto:bertievidgen@gmail.com) if you have questions. 
+
+Licence is CC-BY.
